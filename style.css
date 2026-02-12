@@ -1,7 +1,7 @@
  
 
 body {
-    background: #513939;
+    background: rgb(81, 57, 57);
 }
 
 .container {
@@ -54,6 +54,7 @@ body {
     border-bottom: 2px solid black;
     padding-bottom: 5px;
 }
+
 
 
 
